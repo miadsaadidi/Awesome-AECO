@@ -161,6 +161,11 @@ AECO stands for Architecture, Engineering, Construction, and Operations. It refe
   Open System for Earthquake Engineering Simulation. Framework for structural FEA and seismic simulation of structures.
   *GitHub: [OpenSees/OpenSees](https://github.com/OpenSees/OpenSees)*
 
+  - **HVACLogic**
+  Deterministic, 100% client-side engineering calculation suite for building science, duct aerodynamics, cooling loads, and heat pump sizing.
+  *Website: [hvaclogic.org](https://hvaclogic.org)* | *GitHub: [miadsaadidi/hvaclogic](https://github.com/miadsaadidi/hvaclogic)*
+
+
 ## Parametric & Computational Design
 
 - **Dynamo**
